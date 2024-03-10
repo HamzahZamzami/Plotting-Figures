@@ -1,0 +1,6 @@
+BuildingType,GEMTaxonomy,Building_Taxonomy,Gorontalo,Persentase
+06 - C1 Rangka Momen Beton Bertulang,CR/LFM,Concrete moment-resisting frame,7,3.8
+08 - C3 Rangka Momen Beton dengan Dinding Pengisi Pasangan Bata,CR/LFINF,Concrete frame with unreinforced masonry infill walls,141,75.8
+11 - URM1 Dinding Penumpu Pasangan Bata Merah tidak Bertulang,MUR+CLBRS/LWAL,"Fired-clay solid brick masonry, unreinforced",16,8.6
+13 - URM3 Dinding Penumpu Pasangan Bata dengan Rangka Beton Praktis,MCF/LWAL,Confined masonry,13,7.0
+Other Building Type,Other,Other building type,9,4.8

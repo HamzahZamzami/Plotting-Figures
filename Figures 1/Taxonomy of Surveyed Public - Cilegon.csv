@@ -1,0 +1,16 @@
+BuildingType,GEMTaxonomy,Building_Taxonomy,Cilegon,Persentase
+01 - S1 Rangka Momen Baja Struktural,S/LFM,Steel moment-resisting frame,,0.00%
+02 - S2 Rangka Bresing Baja Struktural ,S/LFBR,Braced steel frame,,0.00%
+05 - S5 Rangka Momen Baja Struktural dengan Dinding Geser Pasangan Bata,S/LFINF,Steel frame with unreinforced masonry infill walls,4,1.86%
+06 - C1 Rangka Momen Beton Bertulang,CR/LFM,Concrete moment-resisting frame,18,8.37%
+07 - C2 Dinding Geser Beton Bertulang,CR/LWAL,Concrete shear wall,,0.00%
+08 - C3 Rangka Momen Beton dengan Dinding Pengisi Pasangan Bata,CR/LFINF,Concrete frame with unreinforced masonry infill walls,189,87.91%
+09 - C4 Sistem Ganda Rangka Momen dan Dinding Beton Bertulang,CR/LDUAL,Reinforced concrete dual frame-wall system,,0.00%
+10 - PC2 Rangka Beton Pracetak,CR+PC/LFINF,Precast concrete frame,,0.00%
+11 - URM1 Dinding Penumpu Pasangan Bata Merah tidak Bertulang,MUR+CLBRS/LWAL,"Fired-clay solid brick masonry, unreinforced",1,0.47%
+12 - URM2 Dinding Penumpu Pasangan Bata Semen tidak Bertulang,MUR/LWAL*,Unreinforced masonry bearing-wall buildings (see specific subclasses below),,0.00%
+13 - URM3 Dinding Penumpu Pasangan Bata dengan Rangka Beton Praktis,MCF/LWAL,Confined masonry,,0.00%
+14 - W1 Bangunan Rangka Kayu 1 Lantai atau lebih dengan Atap Genteng atau Seng,W/LPB,"Timber post and beam building of 1 or more stories in height, tiled or zync roofing.",1,0.47%
+"15 - LO Sistem Penahan Beban Lateral Lainnya (gable, truss frame)",LO,"Other lateral load resisting system, e.g. gable frames, trussed frames.",2,0.93%
+URM with Timber Frame,URM with Timber Frame,URM with Timber Frame,,0.00%
+,,,,

@@ -1,0 +1,21 @@
+BuildingCategory,Male,Female
+Assembly,0.80,0.20
+Religious Building,0.80,0.20
+Stadium,0.80,0.20
+Gathering Hall,0.70,0.30
+Public Building,0.51,0.49
+Retail,0.51,0.49
+Office,0.70,0.30
+Hospital & Clinic,0.37,0.63
+Restaurant,0.42,0.58
+Bus station ,0.50,0.50
+Railway station ,0.75,0.25
+Sport Hall,0.80,0.20
+School ,0.47,0.53
+University,0.47,0.53
+Laboratory,0.47,0.53
+Government,0.72,0.28
+Government Office,0.72,0.28
+Emergency Facility,0.72,0.28
+Mixed,0.50,0.50
+Shophouse,0.50,0.50

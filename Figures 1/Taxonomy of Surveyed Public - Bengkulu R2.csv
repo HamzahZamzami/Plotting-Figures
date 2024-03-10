@@ -1,0 +1,6 @@
+BuildingType,GEMTaxonomy,Building_Taxonomy,Bengkulu,Persentase
+06 - C1 Rangka Momen Beton Bertulang,CR/LFM,Concrete moment-resisting frame,15,8.0
+08 - C3 Rangka Momen Beton dengan Dinding Pengisi Pasangan Bata,CR/LFINF,Concrete frame with unreinforced masonry infill walls,153,81.4
+11 - URM1 Dinding Penumpu Pasangan Bata Merah tidak Bertulang,MUR+CLBRS/LWAL,"Fired-clay solid brick masonry, unreinforced",1,0.5
+13 - URM3 Dinding Penumpu Pasangan Bata dengan Rangka Beton Praktis,MCF/LWAL,Confined masonry,18,9.6
+Other Building Type,Other,Other building type,1,0.5
